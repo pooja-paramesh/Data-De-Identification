@@ -1,4 +1,4 @@
 # Data De-identification
   Publishing physical activity data can support reproducible research in a number of areas including personal and population health management, behavioural research and management of chronic health problems. However, publishing such data also brings high privacy risks. Even when the direct identifiers such as names and IDs are removed, many unique longitudinal patterns can easily reveal identities. To reduce the probability of re-identification, physical activity data needs to be anonymized. We propose a clustering based anonymization approach that can be used for longitudinal data sets.
 
-PLEASE NOTE, this work is in review for a journal. Complete code base will be made available once the work is published. At this point, we have made data SIMULATION step AVAILABLE.
+PLEASE NOTE, this work is in review for a journal. Complete code base will be made available once the work is published. At this point, we have made the data simulation step available.
